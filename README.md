@@ -7,7 +7,7 @@ users can view a list of films by genre and can add a watch list. the search fea
 <img src="./public/modal.jpg">
 
 ## MVP
-
+(https://si-nemah.netlify.app/)
 1. Search Movie
 2. Watchlist Movie
 3. Show Trending Movie,Movie, & TV Series
