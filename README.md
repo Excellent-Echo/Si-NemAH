@@ -17,4 +17,4 @@ Ah Rifqi Ubaidilah : https://github.com/rifqi23ahmad
 
 Helmi Yusuf Efendi : https://github.com/helyus1412
 
->>>>>>> aa947a71e32f1e9f58caf68854097152f628caef
+
